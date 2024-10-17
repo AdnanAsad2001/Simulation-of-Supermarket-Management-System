@@ -1,0 +1,76 @@
+
+                                      ARENA Simulation Results
+                                   Windows User - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 1/26/2024
+Analyst: Windows User                                                Model revision date: 1/26/2024
+
+Replication ended at time      : 6.1563561 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .13991     (Insuf)    .08923     .24334        120    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        120    
+Entity 1.WaitTime                           3.8739     (Insuf)    .22786     5.7324        120    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        120    
+Entity 1.OtherTime                          .17319     (Insuf)    .00000     .48333        120    
+Entity 1.TotalTime                          4.1870     (Insuf)    .35625     5.9637        120    
+Security Checks For In and Out.Queue.Waiti  1.1063     (Insuf)    .01604     1.9583         27    
+Customer Dealing.Queue.WaitingTime          1.0757     (Insuf)    .00000     1.9571         53    
+Management.Queue.WaitingTime                1.4537     (Insuf)    .31982     1.8982          9    
+Further Security Checking.Queue.WaitingTim  1.9380     (Insuf)    1.9032     1.9694         23    
+CheckOut_Counter.Queue.WaitingTime          1.1768     (Insuf)    .51563     1.7118         43    
+See Products.Queue.WaitingTime              1.8012     (Insuf)    1.1048     1.9610         42    
+Car Parking.Queue.WaitingTime               .83715     (Insuf)    .00192     1.6578        100    
+Cash Counter.Queue.WaitingTime              1.1844     (Insuf)    .03133     1.9262         11    
+Playing Games.Queue.WaitingTime             1.7121     (Insuf)    1.1602     1.9284         11    
+ToDo Grocery.Queue.WaitingTime              1.8254     (Insuf)    1.2119     1.9607         43    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                81.614     (Insuf)    .00000     120.00     .00000    
+Resource 1.NumberBusy                       .99058     (Insuf)    .00000     1.0000     .00000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .99058     (Insuf)    .00000     1.0000     .00000    
+Security Checks For In and Out.Queue.Numbe  4.8522     (Insuf)    .00000     9.0000     .00000    
+Customer Dealing.Queue.NumberInQueue        9.2612     (Insuf)    .00000     15.000     .00000    
+Management.Queue.NumberInQueue              2.1251     (Insuf)    .00000     4.0000     .00000    
+Further Security Checking.Queue.NumberInQu  7.2405     (Insuf)    .00000     23.000     .00000    
+CheckOut_Counter.Queue.NumberInQueue        8.2201     (Insuf)    .00000     31.000     .00000    
+See Products.Queue.NumberInQueue            12.288     (Insuf)    .00000     33.000     .00000    
+Car Parking.Queue.NumberInQueue             13.598     (Insuf)    .00000     100.00     .00000    
+Cash Counter.Queue.NumberInQueue            2.1162     (Insuf)    .00000     4.0000     .00000    
+Playing Games.Queue.NumberInQueue           3.0592     (Insuf)    .00000     7.0000     .00000    
+ToDo Grocery.Queue.NumberInQueue            12.750     (Insuf)    .00000     35.000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Counter 2                                       100  Infinite
+Counter 1                                       100  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           120.00    
+Entity 1.NumberOut                          120.00    
+Resource 1.NumberSeized                     362.00    
+Resource 1.ScheduledUtilization             .99058    
+System.NumberOut                            120.00    
+
+
+Simulation run time: 0.10 minutes.
+Simulation run complete.

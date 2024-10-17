@@ -1,0 +1,75 @@
+[RESOURCES]
+Resource 1
+[VARIABLES]
+See Products.NumberOut
+Check Inventory.NumberOut False
+Fill Inventory.NumberIn
+Fill Inventory.NumberOut
+Cash Counter.NumberOut
+To The Car Parking.NumberOut
+Grocery_
+Check Inventory.NumberOut True
+Checking All the Items.NumberIn
+Checking All the Items.NumberOut
+Start Daily Activities.NumberIn
+Start Daily Activities.NumberOut
+Return Item At Customer Care Counter.NumberIn
+Enter.NumberOut
+Playing Games.NumberOut
+Playing Games.NumberIn
+Customer_
+Time to close.NumberOut True
+Mark Attendance Check_Out.NumberOut
+Customer Dealing.NumberIn
+Mark Attendance Check_Out.NumberIn
+Management.NumberIn
+Further Security Checking.NumberIn
+Window Shopping.NumberOut
+Want to Leave Super Market.NumberOut False
+Further Security Checking.NumberOut
+Customer Dealing.NumberOut
+Want to Leave Super Market.NumberOut True
+Customer Zero.NumberOut True
+Go To PlayArea.NumberOut
+Want To Return Item.NumberIn
+Super Market Open.NumberOut
+Go To PlayArea.NumberIn
+Super Market Close.NumberOut
+Want To Return Item.NumberOut
+ToDo Grocery.NumberIn
+Doing Grocery.NumberOut
+Doing Grocery.NumberIn
+Security Checks For In and Out.NumberOut
+Cash Counter.NumberIn
+Checking Price.NumberIn
+Checking Price.NumberOut
+Management.NumberOut
+Security Checks For In and Out.NumberIn
+Customer checkout.NumberIn
+Checking List.NumberOut
+Customer checkout.NumberOut
+Customer Zero.NumberOut False
+Return Item At Customer Care Counter.NumberOut
+To The Car Parking.NumberIn
+Checking List.NumberIn
+CheckOut_Counter.NumberIn
+ToDo Grocery.NumberOut
+Mark Attendance Check_In.NumberIn
+CheckOut_Counter.NumberOut
+Any Issue In Security.NumberOut True
+Mark Attendance Check_In.NumberOut
+SECURITY CHECKING.NumberIn
+SECURITY CHECKING.NumberOut
+Grocery
+Time to close.NumberOut False
+See Products.NumberIn
+Exit Super Market.NumberOut
+Customer__
+Any Issue In Security.NumberOut False
+Get The Slip of Returned Item.NumberOut
+Window Shopping.NumberIn
+Get The Slip of Returned Item.NumberIn
+Car Parking.NumberOut
+Customer Decide What to do.NumberIn
+Customer Decide What to do.NumberOut
+Car Parking.NumberIn
